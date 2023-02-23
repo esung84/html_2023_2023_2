@@ -1,0 +1,31 @@
+@charset "utf-8";
+ 
+    /*slider*/
+
+    #slider {width:1250px; height:650px;margin: 0 auto;}
+    #slider > a >img {width:100%; height:100%; }
+    #slider > a >img:hover {opacity:0.8;transition:1s;border-radius:40px;}
+    /*section*/
+    section {width:1280px; height:405px; margin: 0 auto;}
+    section h3{font-size:20px;}
+    #news {width:335px; height:180px; float:left; margin:15px 0 0 30px;}
+    #news > table , tr , td > a {text-decoration: none; color:#666;font-size:12px; margin:10px 0 0 0;}
+
+    #icon {width:450px; height:180px;float:left;margin:15px 0 0 30px;}
+    #icon > .iconbox {width:75px; height:80px; float:left; margin:40px 0 0 12px;}
+    #icon > .iconbox > a > img {width:70%;height:70%; margin:0 0 0 10px;}
+    #icon > .iconbox > span > a {font-size:12px;display:block; text-align:center; text-decoration: none; color:#000;font-weight: bold; margin:5px;}
+    #brand {width:375px; height:180px;float:left;margin:15px 0 0 30px;}
+    #brand > p > a {text-decoration: none; font-size:12px; color:#000;margin:10px 0 0 0;}
+    #brand > h5 > a {text-decoration: none; font-size:15px; color:#000;margin:10px 0 0 0;}
+    #promotion {width:355px; height:180px;float:left;margin:15px 5px 0 30px;}
+    #promotion > p > a {text-decoration: none; font-size:12px; color:#000; width:160px; height:50px; float:left;margin:10px 10px 0 0px;}
+    #promotion > a > img {width:180px; height:100px; float:right;}
+    #camp {width:400px; height:180px;float:left;margin:15px 0 0 50px;}
+    #camp > p > a {text-decoration: none; font-size:12px; color:#000; width:180px; height:50px; float:left;margin:10px 10px 0 0px;}
+    #camp > a > img {width:210px; height:100px; float:right;}
+    #store {width:375px; height:180px;float:left;margin:15px 0 0 35px;}
+    #store > p > a {text-decoration: none; font-size:12px; color:#000; width:180px; height:50px; float:left;margin:10px 10px 0 0px;}
+    #store > a > img {width:180px; height:100px; float:right;}
+
+
